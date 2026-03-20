@@ -1,5 +1,4 @@
-<img width="673" height="432" alt="image" src="https://github.com/user-attachments/assets/6e1a861c-d9c3-4ae5-aeb5-f799e6fcc6a1" /><img width="673" height="432" alt="image" src="https://github.com/user-attachments/assets/6e1a861c-d9c3-4ae5-aeb5-f799e6fcc6a1" /># Gig-Worker-Income-Protection
-
+# GigProtect - Income Protection for Gig Worker
 ## Project Overview
 GigProtect is an income protection platform designed specifically for delivery workers and gig economy participants. It provides financial safety nets during adverse weather conditions, low-demand periods, or unexpected disruptions.
 
