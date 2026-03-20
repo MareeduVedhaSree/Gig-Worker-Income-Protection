@@ -109,6 +109,7 @@ The interactive prototype demonstrates:
 - Success confirmation with payout
 
 **Live Demo**: [https://www.canva.com/design/DAHEdiUJc-k/vmxO8dQHnSjKDHRn-J7giA/edit?utm_content=DAHEdiUJc-k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+
 **Video Demo**: [https://www.youtube.com/watch?v=Q8Xg-CvBys4]
 
 ## Project Overview
