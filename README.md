@@ -1,4 +1,4 @@
-# Gig-Worker-Income-Protection
+<img width="673" height="432" alt="image" src="https://github.com/user-attachments/assets/6e1a861c-d9c3-4ae5-aeb5-f799e6fcc6a1" /><img width="673" height="432" alt="image" src="https://github.com/user-attachments/assets/6e1a861c-d9c3-4ae5-aeb5-f799e6fcc6a1" /># Gig-Worker-Income-Protection
 
 ## Project Overview
 GigProtect is an income protection platform designed specifically for delivery workers and gig economy participants. It provides financial safety nets during adverse weather conditions, low-demand periods, or unexpected disruptions.
@@ -72,6 +72,7 @@ GigProtect is an income protection platform designed specifically for delivery w
 | APIs | Weather API, Platform APIs (Swiggy/Zomato/Uber) |
 | Hosting | Replit / Vercel / AWS |
 
+
 ## Development Plan
 
 ### Phase 1 (Current) - Ideation & Foundation
@@ -110,8 +111,9 @@ The interactive prototype demonstrates:
 **Live Demo**: [https://www.canva.com/design/DAHEdiUJc-k/vmxO8dQHnSjKDHRn-J7giA/edit?utm_content=DAHEdiUJc-k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 **Video Demo**: [https://www.youtube.com/watch?v=Q8Xg-CvBys4]
 
-## Team Members
-- [Your Name] - [Your Role]
+## Project Overview
+GigProtect is an income protection platform...
 
+This solution ensures income stability and workforce reliability during disruptions.
 ## Submission Date
 March 20, 2026
